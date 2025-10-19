@@ -1,4 +1,4 @@
-Educational website with React JS
+Educational website By React JS with Fire Base and CRUD
 <br>
 </br>
 Technologies :
@@ -15,6 +15,9 @@ Data Base : Fire Base and CRUD(Create-Read-Update-Delete) implemented
 Live Demo ⭐ https://englisho.liara.run ⭐ 
 
 سایت آموزشگاهی با ری اکت زدم
+<br>
+</br>
+کراد را در صفحه ثبت نام کاربر با اتصال به دیتابیس فایربیس پیاده سازی کردم
 <br>
 </br>
 لینک پروژه ⭐ https://englisho.liara.run ⭐
