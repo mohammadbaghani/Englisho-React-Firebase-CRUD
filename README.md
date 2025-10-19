@@ -9,7 +9,7 @@ React-particles ,
 React-Icons
 <br>
 </br>
-Data Base : Fire Base and CRUD(Create-Read-Update-Delete) implemented 
+Data Base : Fire Base and CRUD (Create-Read-Update-Delete) implemented 
 <br>
 </br>
 Live Demo ⭐ https://englisho.liara.run ⭐ 
