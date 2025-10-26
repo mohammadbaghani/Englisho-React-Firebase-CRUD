@@ -1,4 +1,4 @@
-Educational website By React JS with FireBase and CRUD
+Educational website By React JS with FireBase DataBase and CRUD
 <br>
 </br>
 Technologies :
@@ -9,11 +9,7 @@ React-particles ,
 React-Icons
 <br>
 </br>
-Data Base : Fire Base and CRUD (Create-Read-Update-Delete) implemented 
-<br>
-</br>
 Live Demo ⭐ https://englisho.liara.run ⭐ 
-
 سایت آموزشگاهی با ری اکت زدم
 <br>
 </br>
